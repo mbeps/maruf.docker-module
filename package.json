@@ -1,0 +1,17 @@
+{
+    "name": "docker-extension-pack",
+    "displayName": "Docker Extension Pack",
+    "description": "Contains Docker related extensions",
+    "publisher": "Maruf",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-azuretools.vscode-docker",
+        "formulahendry.docker-explorer"
+    ]
+}
