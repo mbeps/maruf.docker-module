@@ -12,6 +12,8 @@
     ],
     "extensionPack": [ 
         "ms-azuretools.vscode-docker",
-        "formulahendry.docker-explorer"
+        "formulahendry.docker-explorer",
+        "redhat.vscode-yaml"
+
     ]
 }
