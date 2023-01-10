@@ -4,6 +4,7 @@
     "description": "Contains Docker related extensions",
     "publisher": "Maruf",
     "version": "0.0.1",
+    "repository": "https://github.com/mbeps/maruf.docker-module",
     "engines": {
         "vscode": "^1.68.0"
     },
